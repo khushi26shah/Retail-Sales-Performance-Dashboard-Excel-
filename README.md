@@ -64,8 +64,8 @@ The dashboard provides the following insights:
 Retail-Sales-Dashboard-Excel
 │
 ├── README.md
-├── retail-sales-dashboard.png
-└── retail-sales-dashboard.xlsx
+├── dashboard.png
+└── Retail Sales Performance Dashboard (Excel).xlsx
 ```
 
 ---
