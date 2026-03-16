@@ -1,4 +1,4 @@
-# 🛍️ Retail Sales Performance Dashboard (Excel)
+# 🛍️Retail-Sales-Dashboard-Excel
 Excel Data Analysis Project | Sales Dashboard | Data Visualization
 
 ![Retail Sales Dashboard](retail-sales-dashboard.png)
